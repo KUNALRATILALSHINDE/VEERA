@@ -1,8 +1,8 @@
-# AGNI-PREDICT 🔥
+# VEERA (Violence Escalation & Early Risk Analyzer) 🔥
 
 **Real-time Conflict Escalation Risk Predictor using C++**
 
-🚀 AGNI-PREDICT is a high-performance C++ project that simulates the probability of military escalation between India and Pakistan using historical data, sentiment scores, and troop movement inputs. Designed like a geopolitical early warning system.
+🚀 VEERA is a high-performance C++ project that simulates the probability of military escalation between India and Pakistan using historical data, sentiment scores, and troop movement inputs. Designed like a geopolitical early warning system.
 
 ### 🌟 Key Features
 - Real-time simulation engine (C++)
